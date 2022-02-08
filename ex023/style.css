@@ -1,0 +1,23 @@
+@charset "UTF-8";
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+table{
+    margin-left: 8px;
+    border-collapse: collapse;
+    width: 400px;
+    height: 400px;
+}
+table  td{
+    text-align: center; /*Alinhamento horizontal*/
+    padding: 8px;
+    border: 1px solid black;
+}
+h1{
+    padding: 50px 0px 50px 8px;
+}
